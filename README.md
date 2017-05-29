@@ -18,5 +18,5 @@ SimPy Package
 * `class OrderPT(Process)`
 * `class OrderPC(Process)`
 * `class OrderGP(Process)` This process requests parts from the pooled inventory and is activated when needed and only run once
-* 'class Daily(Process)` This process records quantities daily to be output as time series data
+* `class Daily(Process)` This process records quantities daily to be output as time series data
 
